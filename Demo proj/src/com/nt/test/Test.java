@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("hello");
 	}
 	public static void m1() {
-		System.out.println("hell moto ccxz");
+		System.out.println("hell moto ccxz mmm");
 	}
 
 }
