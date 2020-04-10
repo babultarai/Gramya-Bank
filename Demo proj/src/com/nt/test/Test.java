@@ -5,5 +5,8 @@ public class Test {
 		System.out.println("hii");
 		System.out.println("hello");
 	}
+	public static void m1() {
+		System.out.println("hell moto");
+	}
 
 }
